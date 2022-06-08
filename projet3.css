@@ -1,0 +1,113 @@
+*{font-family : 'Pacifico', cursive ;}
+.logo{
+    width: 300px;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+}
+li{
+  
+ list-style: none;
+ margin-left: 20px;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.logo2{
+margin-left: 700px;
+margin-top :25px;
+}
+h1{
+    
+    color: rgb(23, 82, 23);
+    text-align: center;
+}
+.paragraphe1{ 
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    padding-left: 150px;
+    padding-right: 150px;
+}
+.par1{
+    width: 400px;
+   
+    
+
+}
+.par2{
+    width: 400px;
+   
+}
+.cases{
+    display: flex;
+    flex-direction:row;
+    margin: auto;
+    justify-content: space-around;
+}
+.case1{
+    background-color: rgb(54, 103, 54);
+    width: 300px;
+    border-radius: 20px;
+}
+.widthh{ width: 1000px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+
+
+}
+  .casee1{
+      color: white;
+      font-size: x-large;
+      
+  }  
+ 
+
+  
+  .case2{
+      background-color: rgb(80, 80, 228);
+      border-radius: 20px;
+      width: 300px;
+  }
+  .casee2{
+      color: white;
+ font-size: x-large;
+  }
+  .partiefin{
+      text-align: center;
+      color: black;
+ }
+  .logo5{
+      width:30px;
+      height: 30px;
+  }
+  .case3{
+    background-color: black;
+      color:white;
+      font-size: x-large;
+    border-radius: 20px;
+    width: 300px;
+    }
+.para2{
+    color: rgb(23, 82, 23); 
+    justify-content: center;
+    text-align: center;
+    font-size: xx-large;}
+.para3{
+    color:black;
+    justify-content:center;
+    text-align:center;
+    margin:auto;
+}
+#dest{color: white;
+background-color:rgb(54, 103, 54);}
+#dest2{
+    background-color: rgb(80, 80, 228);
+  
+}
